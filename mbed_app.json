@@ -1,0 +1,12 @@
+{
+    "config": {
+        "network-interface":{
+            "help": "options are ETHERNET,WIFI",
+            "value": "ETHERNET"
+        },
+        "wifi-ssid": {
+            "help": "WiFi SSID",
+            "value": "\"AndroidAP\""
+        }
+    }
+}
